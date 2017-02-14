@@ -27,9 +27,9 @@
           <string>testing</string>
         </array>
         <key>category</key>
-        <string>Design and Media</string>
+        <string>Media</string>
         <key>description</key>
-        <string>??</string>
+        <string>Blackmagic Desktop Video drivers</string>
         <key>developer</key>
         <string>Blackmagic Design</string>
         <key>display_name</key>
