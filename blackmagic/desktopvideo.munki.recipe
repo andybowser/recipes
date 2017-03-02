@@ -33,7 +33,7 @@
         <key>developer</key>
         <string>Blackmagic Design</string>
         <key>display_name</key>
-        <string>Desktop Video</string>
+        <string>Blackmagic Desktop Video</string>
         <key>name</key>
         <string>%NAME%</string>
         <key>unattended_install</key>
